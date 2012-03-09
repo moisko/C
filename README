@@ -1,0 +1,36 @@
+// ======================= The C programming language
+
+// *** In French ***
+
+Les entrees-sorties en C -> http://c.developpez.com/cours/bernard-cassagne/node73.php
+
+Fonctions recursives -> http://franckh.developpez.com/tutoriels/c-ansi/recursivite/
+
+// *** In English ***
+
+Writing unit tests in C -> http://cunit.sourceforge.net/
+
+The standard C library -> http://www.utas.edu.au/infosys/info/documentation/C/CStdLib.html
+
+Array of function pointers -> http://stackoverflow.com/questions/252748/how-to-use-array-of-function-pointers
+						   -> http://www.cprogramming.com/tutorial/function-pointers.html
+						   -> http://www.go4expert.com/forums/showthread.php?t=5851
+						   -> http://www.newty.de/fpt/index.html
+
+// ======================= Development environments (IDE)
+
+Netbeans IDE for C/C++ development -> http://netbeans.org/features/cpp/
+
+Eclipse IDE for C/C++ development -> http://eclipse.org/downloads/moreinfo/c.php
+
+Microsoft Visual Studio -> https://www.dreamspark.com/Products/Product.aspx?ProductId=1
+
+// ======================= Git
+
+Pro Git book -> http://progit.org/book/
+
+How to install Git -> http://www.slideshare.net/testrus/git-on-windows-plain-introduction
+
+// ======================= Compiling a C program using the GNU compiler
+
+http://www.wikihow.com/Compile-a-C-Program-Using-the-GNU-Compiler-(GCC)
